@@ -1,0 +1,5 @@
+[user]
+    name = Kristian Zondervan
+    email = kristian.zondervan@gmail.com
+[core]
+	excludesfile = /home/vagrant/.gitignore_global
